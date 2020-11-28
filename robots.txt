@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nordic-rse.org/sitemap.xml
